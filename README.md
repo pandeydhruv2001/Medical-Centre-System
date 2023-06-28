@@ -35,4 +35,4 @@ https://github.com/pandeydhruv2001/Medical-Centre-System
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MIT License](LICENSE.md)
