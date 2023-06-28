@@ -1,6 +1,6 @@
 
 
-# [Medical Center System]
+# Medical Center System
 
 This is a web-based appointment scheduling system for a medical centre. The system is built using HTML, CSS, JavaScript, PHP, and MySQL.
 
