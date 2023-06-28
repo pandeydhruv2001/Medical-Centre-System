@@ -17,7 +17,7 @@ This is a web-based appointment scheduling system for a medical centre. The syst
 https://github.com/pandeydhruv2001/Medical-Centre-System
 ``````````````
 2. Import the database schema (`contact_db.sql`) to your MySQL server
-3. Configure the database connection `
+3. Configure the database connection 
 4. Start the web server and navigate to the index page (`index.php`)
 
 ## Technologies Used
